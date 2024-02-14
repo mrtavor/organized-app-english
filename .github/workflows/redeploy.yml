@@ -26,7 +26,7 @@ jobs:
           persist-credentials: false
 
       - name: Use Node.js LTS version
-        uses: actions/setup-node@b39b52d1213e96004bfcb1c61a8a6fa8ab84f3e8
+        uses: actions/setup-node@60edb5dd545a775178f52524783378180af0d1f8
         with:
           node-version: lts/Hydrogen
 
@@ -45,7 +45,7 @@ jobs:
 
       - name: Check if new version has been generated
         id: check_build
-        uses: andstor/file-existence-action@20b4d2e596410855db8f9ca21e96fbe18e12930b
+        uses: andstor/file-existence-action@076e0072799f4942c8bc574a82233e1e4d13e9d6
         with:
           files: 'dist'
 
