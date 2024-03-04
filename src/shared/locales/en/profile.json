@@ -52,8 +52,8 @@
   "tr_logoutClearData": "Log out and clear the local data?",
   "tr_logoutClearDataDesc": "Make sure that all your recently created data is synced, otherwise it will be deleted.",
   "tr_doneDesc": "The session is terminated",
-  "tr_2FAEnable": "Enable two-factor authentication",
-  "tr_2FAEnableDesc": "Use the Google Authenticator or Microsoft Authenticator app on your mobile device to scan the QR code and complete the setup. ",
+  "tr_2FASetup": "Step 1: Set up 2FA on your device",
+  "tr_2FASetupDesc": "Use one of the methods below to link your authentication app. We suggest using the Google Authenticator or Microsoft Authenticator.",
   "tr_codeCopied": "The code has been copied",
   "tr_codeCopiedDesc": "Paste it into your authenticator app",
   "tr_2FAEnabled": "Two-factor authentication is enabled",
@@ -72,5 +72,10 @@
   "tr_PINNewSet": "New PIN set",
   "tr_PINNewSetDesc": "You can now use it to unlock the Organized app",
   "tr_setupKey": "Setup key",
-  "tr_tr_setupKeyDesc": "If you are unable to scan the QR code, please use the following setup key:"
+  "tr_setupKeyDesc": "Copy the setup key and paste it into your authenticator app to set up Two-Factor Authentication.",
+  "tr_quickSetup": "Quick setup",
+  "tr_quickSetupDesc": "If you have any of the mentioned authenticator apps above, use this button to quickly set it up on your device.",
+  "tr_QRCode": "QR code",
+  "tr_QRCodeDesc": "Scan the QR code with your authenticator app to set up Two-Factor Authentication.",
+  "tr_2FAEnterCode": "Step 2: Enter the 2FA code"
 }
