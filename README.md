@@ -4,15 +4,15 @@
 
 A free web app for Jehovah’s Witnesses congregations, helping with assignments and responsibilities, making things easier, and freeing up time for other important things! Create schedules, view your upcoming assignments, submit service reports,  generate congregation reports, and much more! In a nutshell, the Organized app is:
 
-🔵 **Multi-platform:** Windows, MacOS, Linux, ChromeOS, iPadOS, iOS, Android
+🔵 **Cross-platform:** Windows, MacOS, Linux, ChromeOS, iPadOS, iOS, Android
 
-🔵 **Secure:** End-to-end encrypted
+🔵 **Secure:** End-to-end encrypted, with 2FA and multiple security features for all users
 
-🔵 **Well designed**
+🔵 **Well designed:** User-friendly and modern UI 
 
-🔵 **Open source**
+🔵 **Open source:** Enhanced transparency, security and collaboration
 
-🔵 **Easy to use**
+🔵 **Easy to use:** Consistent user experience, easy onboarding, fast performance
 
 ## Best Organized features
 
@@ -43,7 +43,7 @@ Organized is a Progressive Web Application (PWA), meaning that it can function i
 
 ## Real-world benefits of using the app
 
-😌 **Less stress** – Publishers always know when they have assignments, and where to find all schedules and events. Appointed brothers have so much help with their duties, that they complete their tasks easier, therefore with more joy.
+😌 **Less stress** – Publishers always know when they have assignments, and where to find all schedules and events. Appointed brothers have so much help with their duties, that they complete their tasks more easily, therefore with more joy.
 
 ⏳ **Hundreds of saved hours** – Significantly reduce time commitment for appointed brothers through automated features for reports, schedules, and more! Don’t spend much time on routine work that the program can do.
 
@@ -74,7 +74,7 @@ All app data is stored just on your device initially. If you want to share your 
 
 We really appreciate your volunteer spirit! You can contribute to the app in a few ways:
 
-1. ⭐️ by **starring the repository**. This makes it easier for others enthusiasts to find the app.;
+1. ⭐️ by **starring the repository**. This makes it easier for other enthusiasts to find the app.;
 2. 💬 by **telling others** about the Organized app;
 3. 💰 by supporting the app with a [**donation**](https://www.buymeacoffee.com/sws2apps);
 4. 🌐 by **[translating](https://crowdin.com/project/organized)** the app to your language; 
@@ -92,10 +92,10 @@ We really appreciate your volunteer spirit! You can contribute to the app in a f
 Currently, the app is fully or partially available in **20 languages**, including `English`, `Spanish`, `Portuguese`, `French`, `German`, `Italian`, `Polish`, `Japanese`, `Russian`, `Chinese`, `Ukrainian`, `Malagasy`, and even more to come. If you'd like to contribute by translating Organized into the language of your heart, you're very welcome to do so!
 
 
-The translation for the Organized app is handled at our [Crowdin project page](https://crowdin.com/project/organized) and is pretty easy. The whole app can be translated just in a few days. To learn a  more about how to help with localization, please read the [translation guide](./TRANSLATION.md). If your language hasn't been added to Crowdin yet, feel free to [create a new issue](https://github.com/sws2apps/organized-app/issues/new?assignees=&labels=i18n&projects=&template=new_language_request.yml) to include your specific language.
+The translation for the Organized app is handled at our [Crowdin project page](https://crowdin.com/project/organized) and is pretty easy. The whole app can be translated just in a few days. To learn more about how to help with localization, please read the [translation guide](./TRANSLATION.md). If your language hasn't been added to Crowdin yet, feel free to [create a new issue](https://github.com/sws2apps/organized-app/issues/new?assignees=&labels=i18n&projects=&template=new_language_request.yml) to include your specific language.
 
 ## New features in development 
-We're working hard on the new redesigned release in the new branch _(the current main branch contains an old, but fully functional version of the app)_. And there are so many features we want to implement:
+We're working hard on the new redesigned release in the new separate `main-next` branch _(the current `main` branch contains an old, but fully functional version of the app)_. And there are so many features we want to implement:
 
 • Territories management <br>
 • Meeting duties scheduling <br>
@@ -106,3 +106,16 @@ We're working hard on the new redesigned release in the new branch _(the current
 • More printed schedules and forms (like S-12, S-13, S-140 variations, and more) <br>
 
 We're excited about adding these and many more new features! Of course, it takes time to develop them... If you know programming and want to help, we'd really appreciate it! Together we can create a better app for the brotherhood across the whole globe!
+
+## Useful links
+
+To learn more about Organized and how to use it, check out the following useful links:
+
+| Link                                                         | Description                                                   |
+|-------------------------------------------------------------------------------|---------------------------------------------------------------|
+| [Organized app](https://organized-app.com)                                           | Open and use the Organized app.           |
+| [About Organized](https://about.organized-app.com)                                | Learn more about the goals, features, and benefits of the Organized app. Feel free to share this link with others. |
+| [Contribution guide](https://github.com/sws2apps/organized-app/blob/main/CONTRIBUTING.md)                     | See how you can contribute to the Organized project.     |
+| [Crowdin project](https://crowdin.com/project/organized)                              | Collaborate on translating the Organized app – it's easy and convenient.                   |
+| [How to use guide](https://sws2apps.com/docs/category/congregation-program-for-everyone) | Read text documentation on how to start using the app and learn about different features.       |
+| [Video tutorials](https://www.youtube.com/@organized-app)                     | Watch video tutorials and guides on using and contributing on our YouTube channel.     |
